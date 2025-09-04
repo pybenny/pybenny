@@ -1,3 +1,3 @@
-💻 CS Major | C++ | Python | GDScript | AI/LLM Integration | Building real-world tools for developers alike |
+💻 CS Major | C++ | Python | AI/LLM Integration | Building real-world tools for developers alike |
 
 Currently building "DocForge", an offline LLM software for Developers to write code more efficiently. Coming soon...
